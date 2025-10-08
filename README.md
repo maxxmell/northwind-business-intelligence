@@ -31,7 +31,6 @@ northwind-business-intelligence/
 │   ├── northwind_dashboard.pdf # PDF экспорт
 │   ├── northwind_presentation.pptx # Презентация
 │   └── powerbi_guide.md # Руководство
-└── documentation/            # Дополнительная документация
 ```
 
 ## 🔍 SQL Аналитика
