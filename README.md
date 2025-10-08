@@ -26,7 +26,11 @@ northwind-business-intelligence/
 ├── psql/                     # SQL запросы и анализ
 │   ├── northwind_sql_queries.sql     # 15+ аналитических запросов
 │   └── query_categories.md           # Классификация запросов
-├── powerbi/                  # Визуализации и дашборд
+├── powerbi/ # Визуализации и дашборд
+│   ├── northwind_dashboard.pbix # 🚀 Автономный файл Power BI
+│   ├── northwind_dashboard.pdf # PDF экспорт
+│   ├── northwind_presentation.pptx # Презентация
+│   └── powerbi_guide.md # Руководство
 └── documentation/            # Дополнительная документация
 ```
 
